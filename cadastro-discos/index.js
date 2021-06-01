@@ -1,0 +1,1 @@
+//indíce do cadastro de discos  Nome, autor, ano, gênero, preço
